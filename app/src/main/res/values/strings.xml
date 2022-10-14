@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PM01P32022</string>
+    <string name="nombre">Ingrese su Nombre</string>
+    <string name="apellido">Ingrese su Apellido</string>
+    <string name="codigo">Código</string>
+    <string name="nombre2">Nombre</string>
+    <string name="apellido2">Apellido</string>
+    <string name="edad">Edad</string>
+    <string name="correo">Correo</string>
+    <string name="agregar">Agregar</string>
+</resources>
